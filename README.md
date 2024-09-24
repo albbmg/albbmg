@@ -15,6 +15,4 @@
 
 ### 📈 GitHub Stats
 
-/*![Alba's GitHub stats](https://github-readme-stats.vercel.app/api?username=albbmg&show_icons=true&theme=radical)*/
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albbmg&layout=compact&theme=radical)
