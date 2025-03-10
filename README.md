@@ -13,7 +13,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/albbmg) | [Email](mailto:albmg_99@outlook.com)
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/albbmg) | [Email](mailto:albmg_99@outlook.com)
 
 ### 📈 GitHub Stats
 
