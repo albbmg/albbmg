@@ -22,14 +22,14 @@ I combine a software development background with a data-oriented approach, which
 
 ### Core data areas
 
-- **SQL & relational databases** — querying, data management, migrations and troubleshooting
-- **Data cleaning & transformation** — preparing raw data for reliable analysis
-- **Analytical data modelling** — structured datasets, dimensional thinking and KPI consistency
+- **SQL & relational databases** - querying, data management, migrations and troubleshooting
+- **Data cleaning & transformation** - preparing raw data for reliable analysis
+- **Analytical data modelling** - structured datasets, dimensional thinking and KPI consistency
 - **Business Intelligence** — KPI definition, reporting and decision-focused analysis
-- **Data visualization** — Power BI dashboards and clear presentation of insights
-- **APIs & automation** — integrating external data sources and automating workflows
-- **Data quality & reproducibility** — validation, version control and repeatable processes
-- **Data Engineering foundations** — PostgreSQL, Docker and Databricks fundamentals
+- **Data visualization** - Power BI dashboards and clear presentation of insights
+- **APIs & automation** - integrating external data sources and automating workflows
+- **Data quality & reproducibility** - validation, version control and repeatable processes
+- **Data Engineering foundations** - PostgreSQL, Docker and Databricks fundamentals
 
 ---
 
