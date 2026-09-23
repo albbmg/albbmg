@@ -68,7 +68,18 @@ Full-stack web application focused on videogame discovery and exploration.
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albbmg&layout=compact)
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=albbmg&show_icons=true&hide_border=true"
+    alt="Alba's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albbmg&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
 ---
 
