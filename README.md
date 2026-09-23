@@ -103,7 +103,7 @@ My software development background supports the way I approach data projects: un
 
 ## 🎓 Certifications
 
-- **Databricks Fundamentals Accreditation** — Databricks Academy
+- **Databricks Fundamentals Accreditation** - Databricks Academy
 
 ---
 
