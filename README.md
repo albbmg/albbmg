@@ -1,10 +1,12 @@
 # Hi, I'm Alba 👋
 
-### Software Developer | Data Analytics & Business Intelligence
+### Data Analytics & Business Intelligence | Software Developer
 
-Software Developer with professional experience building and maintaining web applications, integrations and data-driven solutions.
+Software Developer with professional experience working with **SQL, relational databases, APIs, web analytics, automation and data-driven applications**.
 
-My background combines software development with SQL, databases, APIs and web analytics. I'm currently expanding that experience into Data Analytics and Business Intelligence, working with Python, PostgreSQL and Power BI.
+My current focus is **Data Analytics and Business Intelligence**: turning raw data into reliable, structured and useful information through reproducible workflows, analytical modelling, KPI definition and clear visual reporting.
+
+I combine a software development background with a data-oriented approach, which allows me to work across the full flow from **data extraction and transformation to analysis, modelling and business insight**.
 
 ---
 
@@ -15,16 +17,41 @@ My background combines software development with SQL, databases, APIs and web an
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-
-## 💻 Software Development
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Core data areas
+
+- **SQL & relational databases** — querying, data management, migrations and troubleshooting
+- **Data cleaning & transformation** — preparing raw data for reliable analysis
+- **Analytical data modelling** — structured datasets, dimensional thinking and KPI consistency
+- **Business Intelligence** — KPI definition, reporting and decision-focused analysis
+- **Data visualization** — Power BI dashboards and clear presentation of insights
+- **APIs & automation** — integrating external data sources and automating workflows
+- **Data quality & reproducibility** — validation, version control and repeatable processes
+- **Data Engineering foundations** — PostgreSQL, Docker and Databricks fundamentals
+
+---
+
+## 🔄 Analytics Workflow
+
+```text
+Raw Data
+   ↓
+Extraction & Validation
+   ↓
+Python / Data Transformation
+   ↓
+PostgreSQL / SQL
+   ↓
+Analytical Data Model
+   ↓
+KPIs & Business Analysis
+   ↓
+Power BI
+   ↓
+Business Insights
+```
 
 ---
 
@@ -32,19 +59,21 @@ My background combines software development with SQL, databases, APIs and web an
 
 ### 📈 Retail Sales & Customer Analytics
 
-End-to-end Data Analytics / Business Intelligence project based on the UCI Online Retail II dataset.
+End-to-end **Data Analytics / Business Intelligence** portfolio project based on the UCI Online Retail II dataset.
 
-**Stack:** Python · PostgreSQL · SQL · Docker · Pandas · Power BI
+**Current stack:** Python · PostgreSQL · SQL · Docker  
+**Planned analytics layer:** Pandas · Power BI
 
-The project covers the complete analytics workflow:
+The project is being developed incrementally as a complete analytics workflow:
 
-- Data extraction and validation
+- Reproducible data extraction and source validation
 - Data cleaning and transformation
 - Analytical data modelling
-- SQL analysis
+- SQL-based analysis and data-quality checks
 - KPI definition
+- Customer, product and sales analysis
 - Power BI dashboard
-- Business insights
+- Business-focused insights and documentation
 
 🔗 [View project](https://github.com/albbmg/retail-sales-customer-analytics)
 
@@ -60,26 +89,21 @@ Full-stack web application focused on videogame discovery and exploration.
 
 ---
 
-## 🎓 Certifications
+## 💻 Software Development
 
-- Databricks Fundamentals Accreditation — Databricks Academy
+My software development background supports the way I approach data projects: understanding systems end to end, working comfortably with databases and APIs, and building maintainable technical solutions.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Certifications
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=albbmg&show_icons=true&hide_border=true"
-    alt="Alba's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albbmg&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
+- **Databricks Fundamentals Accreditation** — Databricks Academy
 
 ---
 
